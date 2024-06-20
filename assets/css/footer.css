@@ -1,0 +1,28 @@
+/* assets/css/style.css */
+
+footer {
+    background-color: #f7f7f7;
+    color: #555;
+    padding: 10px 20px;
+    text-align: center;
+    margin-top: 20px;
+    clear: both;
+}
+
+.container {
+    max-width: 800px;
+    margin: 80px auto 20px; /* Menambahkan margin atas 80px untuk memberikan ruang bagi header */
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+
+
+
