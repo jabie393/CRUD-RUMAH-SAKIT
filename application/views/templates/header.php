@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="<?php echo base_url('assets/css/header.css'); ?>">
+    <title>PC Store</title>
+    <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/styles.css'); ?>">
 </head>
 <body>
-    <header>
-    <H1>R.S FAHD</H1>
-    </header>
-
+<header>
     <div class="container">
+        <h1>PC Store</h1>
+    </div>
+</header>
+<div class="container">
